@@ -5,5 +5,13 @@
   },
   "records": {
     "CNAME": "culonculon.is-a.dev.s3-website.ap-northeast-2.amazonaws.com"
+  },
+  "subdomains": {
+    "_72a0fea434ce1eb0b39aea8fc14de5c0": {
+      "records": {
+        "CNAME": "_4a65c1177b1b5736d708aee670bded74.jkddzztszm.acm-validations.aws"
+      }
+    }
   }
+
 }
